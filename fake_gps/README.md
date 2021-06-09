@@ -24,10 +24,10 @@ If the robot is not localized or localized in wrong position, the fake_gps outpu
 This make the ndt_matching keep rematching in the wrong position  
 To fix this, turn off fake_gps node first, then restart ndt_matching and ndt_matching_monitor  
   
-![init points](/img/maps-init.png)
+![init points](img/maps-init.png)
   
 Point A: 0, 0, 0, 0, 0, 0  
 Point B: 7.5, 13.5, -0.6, 0, 0, -2.732
   
 
-![structure](/img/structure.png)
+![structure](img/structure.png)
