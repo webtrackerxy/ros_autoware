@@ -3,9 +3,11 @@ Indoor Robot Navigation
 
 Indoor robot using Autoware. See [Autoware.ai website](https://www.autoware.ai/)  
 
+This project is to test ROS robot by using Autoware framework. Autoware provides framwork for sensor fusion, SLAM mapping and navigation. Although Autoware is aim for autonomous vehicle and self-driving car. Customization with own code is easy. This project modified a wheelchair as a differential drive robot to fix with indoor environment. The wheelchair is able to support weight up to 200KG. We can put many many hardware stuffs such as sensors, robot arm, battery, computers, etc on it to maximize the use of power of ROS.
+
 
 ## Robot Hardware: 
-1. Modified Wheelchair Base - See [Website](https://www.allaboutcircuits.com/projects/building-an-rc-robot-using-a-wheelchair-base/)
+1. Modified Wheelchair Base with 200W motor- See [Website for the hacking](https://www.allaboutcircuits.com/projects/building-an-rc-robot-using-a-wheelchair-base/)
 2. Motor Controller - See [Sabertooth 2x32 Motor Controller](https://www.dimensionengineering.com/products/sabertooth2x32)
 3. Lidar - See [VLP-16 Velodyne Lidar](https://www.mapix.com/lidar-scanner-sensors/velodyne/velodyne-puck-vlp16/)
 
