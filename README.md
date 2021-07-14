@@ -1,5 +1,6 @@
 Indoor Robot Navigation
 ================
+![Robot](robot.jpeg)  
 
 Indoor robot using Autoware. See [Autoware.ai website](https://www.autoware.ai/)  
 
