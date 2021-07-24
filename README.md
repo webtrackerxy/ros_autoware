@@ -4,7 +4,7 @@ Indoor Robot Navigation
 
 Indoor robot using Autoware. See [Autoware.ai website](https://www.autoware.ai/)  
 
-This project is to test ROS robot by using Autoware framework. Autoware provides framwork for sensor fusion, SLAM mapping and navigation. Although Autoware is aimed for autonomous vehicle and self-driving car. Customization with own code is easy. This project modified a wheelchair as a differential drive robot to fix with indoor environment. The wheelchair is able to support weight up to 200KG. We can put many many hardware stuffs such as sensors, robot arm, battery, computers, etc on it to maximize the use of power of ROS. 
+This project is to test ROS robot by using Autoware framework. Autoware provides framwork for sensor fusion, SLAM mapping and navigation. Although Autoware is aimed for autonomous vehicle and self-driving car. Customization with own code is easy. This project modified a wheelchair as a differential drive robot to fit with indoor environment. The wheelchair is able to support weight up to 200KG. We can put many many hardware stuffs such as sensors, robot arm, battery, computers, etc on it to maximize the use of power of ROS. 
 
 For the details, please refer to [project notes.pdf](https://github.com/webtrackerxy/ros_autoware/blob/master/project%20notes.pdf).
 
