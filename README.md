@@ -1,6 +1,20 @@
 Indoor Robot Navigation
 ================
-![Robot](robot.jpeg)  
+<table>
+ <tr>
+  <td>
+   <img src="robot.jpeg" alt="Robot" width="300"/>
+  </td>
+   <td>
+   <img src="video3.gif" alt="Robot" width="300"/>
+  </td>
+ </tr>
+ <tr>
+   <td colspan ="2">
+   <img src="video2.gif" alt="Robot" width="600"/>
+  </td>
+ </tr>
+</table> 
 
 Indoor robot using Autoware. See [Autoware.ai website](https://www.autoware.ai/)  
 
